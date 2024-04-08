@@ -1,0 +1,38 @@
+States
+State,"Population, 2023","Pop. per sq. mi., 2023"
+"District of Columbia","678,972","11,107.7"
+"New Jersey","9,290,841","1,263.2"
+"Rhode Island","1,095,962","1,060.0"
+Massachusetts,"7,001,399",897.5
+Connecticut,"3,617,176",747.0
+Maryland,"6,180,253",636.4
+Delaware,"1,031,890",529.6
+Florida,"22,610,726",421.4
+"New York","19,571,216",415.3
+Pennsylvania,"12,961,683",289.7
+
+Counties
+County,"Population, 2023","Pop. per sq. mi., 2023"
+"New York County, NY","1,597,451","70,502.8"
+"Kings County, NY","2,561,225","36,917.7"
+"Bronx County, NY","1,356,476","32,162.2"
+"Queens County, NY","2,252,196","20,714.8"
+"San Francisco County, CA","808,988","17,323.2"
+"Hudson County, NJ","705,472","15,272.1"
+"Suffolk County, MA","768,425","13,191.1"
+"Philadelphia County, PA","1,550,542","11,540.5"
+"District of Columbia, DC","678,972","11,107.7"
+"Alexandria city, VA","155,230","10,393.5"
+
+Cities
+"City, ST","Population, 2022","Pop. per sq. mi., 2022"
+"Guttenberg town, NJ","11,446","59,305.7"
+"West New York town, NJ","51,981","52,294.8"
+"Union City city, NJ","65,366","50,789.4"
+"Hoboken city, NJ","57,703","46,162.4"
+"Kaser village, NY","5,664","32,930.2"
+"New York city, NY","8,335,897","27,744.1"
+"Cliffside Park borough, NJ","25,560","26,736.4"
+"Kiryas Joel village, NY","38,998","26,674.4"
+"New Square village, NY","9,749","26,564.0"
+"Great Neck Plaza village, NY","7,562","24,315.1"

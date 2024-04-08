@@ -1,0 +1,38 @@
+States
+State,"Population, 2023","Pop. per sq. mi., 2023"
+California,"38,965,193",250.0
+Texas,"30,503,301",116.8
+Florida,"22,610,726",421.4
+"New York","19,571,216",415.3
+Pennsylvania,"12,961,683",289.7
+Illinois,"12,549,689",226.1
+Ohio,"11,785,935",288.5
+Georgia,"11,029,227",191.1
+"North Carolina","10,835,491",222.8
+Michigan,"10,037,261",177.3
+
+Counties
+County,"Population, 2023","Pop. per sq. mi., 2023"
+"Los Angeles County, CA","9,663,345","2,380.0"
+"Cook County, IL","5,087,072","5,383.6"
+"Harris County, TX","4,835,125","2,832.5"
+"Maricopa County, AZ","4,585,871",498.4
+"San Diego County, CA","3,269,973",776.6
+"Orange County, CA","3,135,755","3,955.0"
+"Miami-Dade County, FL","2,686,867","1,414.2"
+"Dallas County, TX","2,606,358","2,984.8"
+"Kings County, NY","2,561,225","36,917.7"
+"Riverside County, CA","2,492,442",345.7
+
+Cities
+"City, ST","Population, 2022","Pop. per sq. mi., 2022"
+"New York city, NY","8,335,897","27,744.1"
+"Los Angeles city, CA","3,822,238","8,123.5"
+"Chicago city, IL","2,665,039","11,701.7"
+"Houston city, TX","2,302,878","3,594.8"
+"Phoenix city, AZ","1,644,409","3,172.6"
+"Philadelphia city, PA","1,567,258","11,665.0"
+"San Antonio city, TX","1,472,909","2,952.2"
+"San Diego city, CA","1,381,162","4,238.2"
+"Dallas city, TX","1,299,544","3,826.6"
+"Austin city, TX","974,447","3,039.8"
