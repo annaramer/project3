@@ -24,7 +24,7 @@
 - Housing_Prices.sql: SQL code for creating tables.
 ### Other Files
 - ERD_Housing_DB.png: Entity-Relationship Diagram (ERD) of the SQL database.
-- Project 3 Data Engineering Slide Presentation: Presentation slides summarizing the project.
+- Project 3-Data Engineering.pdf: Presentation slides summarizing the project.
 
 ## Credits
 - Zillow: Provided the housing dataset.
