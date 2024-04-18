@@ -10,7 +10,7 @@
 ## The primary sources used for data integration are:
 - Zillow dataset (zillow_values_2024.csv): Provides information on housing prices.
 - US Census population dataset (SUB-IP-EST2022-POP.xlsx): Offers demographic data.
-- State Abbreviations dataset (State_Abreviations.xlsx): Helps in standardizing state abbreviations.
+- State Abbreviations dataset (State_Abreviations.xlsx): Helped in standardizing state abbreviations.
 
 ## Files
 ### Data Files
