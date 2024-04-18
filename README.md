@@ -6,7 +6,7 @@
 ## Data Integration
 - As part of the ETL process, data from various sources was integrated into the project, focusing on the housing market in the top 10 most populated cities in the U.S. as of 2022. This involved extracting housing-related information, transforming it as needed, and loading it into the analysis pipeline. By specifically targeting the housing markets of these major cities, the analysis provides valuable insights into urban real estate trends and dynamics.
 - The integration process included cleaning and preprocessing the data to ensure consistency and accuracy for analysis.
-- We chose to use SQL as our data is very tabular and numerical, as well as homogenous in shape, meaning it worked well within the SQL format.  Using NoSQL would be more complicated for these types of datasets and would make working with them more challenging.  
+- We chose to use SQL as our data is very tabular and numerical, as well as homogenous in shape, meaning it worked well within the SQL format.  Using NoSQL would be more complicated for these types of datasets and would make working with them more challenging. 
 
 ## Ethical Considerations
 - Both datasets used here are publicly available and contain no identifying information to any individuals, which is often a concern especially when it comes to housing data.  Zillow's data is very generalized, as is the publicly available census data.  We felt comfortable using both of these datasets as-is due to these factors.  
