@@ -28,6 +28,7 @@
 
 ## Credits
 - Zillow: Provided the housing dataset.
+- https://www.zillow.com/research/data/
 - US Census Bureau: Provided demographic data.
 
 ## Project contributers (alphabetical order): 
