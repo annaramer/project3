@@ -1,7 +1,7 @@
 # Data Engineering Project: Housing Market
 
 ## Project Overview
-- This project aims to conduct a comprehensive analysis of the housing market by integrating data from various sources such as Zillow and the US Census. The objectives include understanding trends in housing prices and correlating them with population factors. The significance lies in providing valuable insights for stakeholders such as homebuyers, real estate agents, and policymakers.
+- This project aims to conduct a comprehensive analysis of the housing market by integrating data from various sources such as Zillow and the US Census. The objectives include understanding trends in housing prices and correlating them with population factors. The significance lies in providing valuable insights for stakeholders such as homebuyers.
 
 ## Data Integration
 - As part of the ETL process, data from various sources was integrated into the project, focusing on the housing market in the top 10 most populated cities in the U.S. as of 2022. This involved extracting housing-related information, transforming it as needed, and loading it into the analysis pipeline. By specifically targeting the housing markets of these major cities, the analysis provides valuable insights into urban real estate trends and dynamics.
