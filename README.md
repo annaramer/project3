@@ -27,7 +27,6 @@
 - Project 3 Data Engineering Slide Presentation: Presentation slides summarizing the project.
 
 ## Credits
-- We would like to acknowledge the following sources and contributions:
 - Zillow: Provided the housing dataset.
 - US Census Bureau: Provided demographic data.
 
